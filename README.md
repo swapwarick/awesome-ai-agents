@@ -95,6 +95,9 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+* [Agent Diaries](https://github.com/swapwarick/agent-diaries-sdk) - A zero-dependency local SDK to give AI agents persistent memory and prevent infinite loops.
+
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
